@@ -1,0 +1,12 @@
+{
+  "name": "main",
+  "version": "1.0.0",
+  "description": "Yuri's AI coding toolkit — skills, conventions, E2E patterns",
+  "author": {
+    "name": "Yuri Toledo",
+    "url": "https://github.com/yuritoledo"
+  },
+  "repository": "https://github.com/yuritoledo/ai-setup",
+  "license": "MIT",
+  "skills": "./skills/"
+}
